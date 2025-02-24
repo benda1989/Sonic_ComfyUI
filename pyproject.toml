@@ -1,7 +1,7 @@
 [project]
 name = "Sonic"
 description = "a plugin of ComfyUI for Long Sonic"
-version = "1.0.0"
+version = "1.0.1"
 license = {file = "LICENSE"}
 dependencies = ["diffusers","torch","torchaudio","torchvision","transformers","imageio","imageio-ffmpeg","omegaconf","tqdm","librosa","einops"]
 [project.urls]
