@@ -1,5 +1,5 @@
 # ComfyUI_Sonic
-[Sonic](https://github.com/jixiaozhong/Sonic) is a method about ' Shifting Focus to Global Audio Perception in Portrait Animation',
+[Sonic](https://github.com/jixiaozhong/Sonic) is a method about ' Shifting Focus to Global Audio Perception in Portrait Animation',  
 You can produce video as long as you want by text with this comfyUI compentent
 
 
@@ -7,8 +7,8 @@ You can produce video as long as you want by text with this comfyUI compentent
 
 In the ./ComfyUI/custom_node directory, run the following:   
 ```sh
-git clone https://github.com/benda1989/Sonic-ComfyUI.git
-cd Sonic-ComfyUI
+git clone https://github.com/benda1989/Sonic_ComfyUI.git
+cd Sonic_ComfyUI
 pip install -r requirements.txt
 ```
 
@@ -41,5 +41,5 @@ example gpu usage
 ![](example/sonicgpu.PNG)
 
 # Thanks
-[Sonic](https://github.com/jixiaozhong/Sonic) 
+[Sonic](https://github.com/jixiaozhong/Sonic)   
 [ComfyUI_Sonic](https://github.com/smthemex/ComfyUI_Sonic)
