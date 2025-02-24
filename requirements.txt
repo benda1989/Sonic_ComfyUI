@@ -1,0 +1,11 @@
+diffusers
+torch
+torchaudio
+torchvision
+transformers
+imageio
+imageio-ffmpeg
+omegaconf
+tqdm
+librosa
+einops
