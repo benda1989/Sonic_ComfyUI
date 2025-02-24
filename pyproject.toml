@@ -5,8 +5,7 @@ version = "1.0.0"
 license = {file = "LICENSE"}
 dependencies = ["diffusers","torch","torchaudio","torchvision","transformers","imageio","imageio-ffmpeg","omegaconf","tqdm","librosa","einops"]
 [project.urls]
-Repository = "https://github.com/benda1989/CosyVoice2_ComfyUI"
-#  Used by Comfy Registry https://comfyregistry.org
+Repository = "https://github.com/benda1989/Sonic_ComfyUI"
 
 [tool.comfy]
 PublisherId = "benda1989"
